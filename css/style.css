@@ -1,0 +1,88 @@
+
+.fakeimg {
+      height: auto;
+      background-size: cover;
+      width: 100%;
+      padding: 0;
+      overflow: hidden;
+      }
+ .about{
+      margin-top:30px;
+ }
+ 
+ .fake{
+
+width: 553px;
+
+height: 400px;
+
+padding: 0;
+
+overflow: hidden;
+
+}
+ #contact{
+      margin-bottom:0
+ }
+ .quali{
+      background-color: #efefef;
+      height: auto;
+      padding: 15px;
+ }
+ .fakeimg img{
+      width: 100%;
+      height: auto;
+ }
+
+ .btn{
+      text-align: left;
+}
+.face1{
+    max-width: 100%;
+}
+
+#details li{
+      margin: 4px;
+}
+.card{
+      width: 100%;
+      height: auto;
+}
+
+ .carousel-inner img{
+    width: 100%;
+    height: 100%;
+  }
+
+.outer{
+      height: 600px;
+}
+.carousel-caption{
+      text-align: center;
+      top: 157px;
+      position: absolute;
+      z-index: 1;
+}
+
+.up{
+  height: 300px;
+}
+.help {
+      height: 400px;
+      background-size: cover;
+      padding: 0;
+      overflow: hidden;
+      }
+
+.photo{
+  background-image: url("images/banner_1.jpg");
+  width: 1000px;
+  height: auto;
+}
+.back{
+width: 600px;
+    height: 500px;
+}
+.bullet{
+  list-style-type: square;
+}
